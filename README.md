@@ -14,4 +14,6 @@ https://youtubepoop.fandom.com/wiki/Sentence_Mixing
 then it will produce a wav file that says your phrase
 
 
+
+
 it needs more voice clips for the word bank
